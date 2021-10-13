@@ -10,7 +10,7 @@
 
 -   🌱 I’m currently learning **Backend Development; Nodejs**
 
--   👨‍💻 Some of my projects(mostly practice projects) are available at [https://github.com/timiodulate?tab=repositories](https://github.com/timiodulate?tab=repositories), contact me for my main projects.
+-   👨‍💻 Some of my projects(mostly practice projects) are publicly available at [https://github.com/timiodulate?tab=repositories](https://github.com/timiodulate?tab=repositories), contact me for my main private projects
 
 -   📫 How to reach me **timiodulate@gmail.com**
 
