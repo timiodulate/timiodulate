@@ -8,7 +8,7 @@
 
 -   💬 Ask me about **Frontend development**
 
--   🌱 I’m currently learning **Backend Development; Nodejs**
+-   🌱 I’m currently learning **Something interesting and cool 😎**
 
 -   👨‍💻 Some of my projects(mostly practice projects) are publicly available at [https://github.com/timiodulate?tab=repositories](https://github.com/timiodulate?tab=repositories), contact me for my main private projects
 
