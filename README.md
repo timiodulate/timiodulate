@@ -1,15 +1,16 @@
 <!-- ![template](/template.jpg) -->
 
 <h1 align="center">Hi 👋, I'm Timileyin Odulate</h1>
-<h3 align="center">I'm a frontend developer and I design.</h3>
+<h3 align="center">I'm a frontend developer.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadop&label=Profile%20views&color=0e75b6&style=flat" alt="fuadop" /> </p> -->
 
--   🌱 I’m currently learning **Backend Development; Nodejs**
-
--   👨‍💻 All of my projects are available at [https://github.com/timiodulate?tab=repositories](https://github.com/timiodulate?tab=repositories)
 
 -   💬 Ask me about **Frontend development**
+
+-   🌱 I’m currently learning **Backend Development; Nodejs**
+
+-   👨‍💻 Some of my projects(mostly practice projects) are available at [https://github.com/timiodulate?tab=repositories](https://github.com/timiodulate?tab=repositories), contact me for my main projects.
 
 -   📫 How to reach me **timiodulate@gmail.com**
 
