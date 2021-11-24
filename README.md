@@ -3,14 +3,12 @@
 <h1 align="center">Hi 👋, I'm Timileyin Odulate</h1>
 <h3 align="center">I'm a frontend developer.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadop&label=Profile%20views&color=0e75b6&style=flat" alt="fuadop" /> </p> -->
-
 
 -   💬 Ask me about **Frontend development**
 
 -   🌱 I’m currently learning **Something interesting and cool 😎**
 
--   👨‍💻 Some of my projects(mostly practice projects) are publicly available at [https://github.com/timiodulate?tab=repositories](https://github.com/timiodulate?tab=repositories), contact me for my main private projects
+-   👨‍💻 My projects are available at [https://timiodulate.me](https://timiodulate.me) and the source code a few of my projects(mostly practice projects) are publicly available at [https://github.com/timiodulate?tab=repositories](https://github.com/timiodulate?tab=repositories)
 
 -   📫 How to reach me **timiodulate@gmail.com**
 
