@@ -6,15 +6,15 @@
 
 -   💬 Ask me about **Frontend development**
 
--   🌱 I’m currently learning **Something interesting and cool 😎**
+//-   🌱 I’m currently learning **Something interesting and cool 😎**
 
 -   👨‍💻 My projects(mostly practice projects) are publicly available at **[https://github.com/timiodulate?tab=repositories](https://github.com/timiodulate?tab=repositories)**
 
 -   📫 How to reach me **timiodulate@gmail.com**
 
--   📄 Know about my experiences **[https://drive.google.com/file/d/1DxoqprBiXlym7n_ArRFhm2MvACz6fJ-S/view?usp=sharing](https://drive.google.com/file/d/1DxoqprBiXlym7n_ArRFhm2MvACz6fJ-S/view?usp=sharing)**
+//-   📄 Know about my experiences **[https://drive.google.com/file/d/1DxoqprBiXlym7n_ArRFhm2MvACz6fJ-S/view?usp=sharing](https://drive.google.com/file/d/1DxoqprBiXlym7n_ArRFhm2MvACz6fJ-S/view?usp=sharing)**
 
--   ⚡ Fun fact **I love reading novels and manga, and watching anime and marvel contents.**
+//-   ⚡ Fun fact **I love reading novels and manga, and watching anime and marvel contents.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
