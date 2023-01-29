@@ -7,7 +7,7 @@
 
 -   👨‍💻 My projects are publicly available at **[https://thecopydev.netlify.app](https://thecopydev.netlify.app)**
 
-//-   ⚡ Fun fact **I love reading novels and manga, and watching anime and marvel contents.** -->
+<!-- //-   ⚡ Fun fact **I love reading novels and manga, and watching anime and marvel contents.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
