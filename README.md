@@ -1,18 +1,11 @@
 <!-- ![template](/template.jpg) -->
 
-<h1 align="center">Hi 👋, I'm Timileyin Odulate</h1>
-<h3 align="center">I'm a frontend developer.</h3>
+<h1 align="center">Hi 👋, I'm a full-stack website developer.</h1>
 
-
--   💬 Ask me about **Frontend development**
 
 <!-- -   🌱 I’m currently learning **Something interesting and cool 😎** -->
 
--   👨‍💻 My projects(mostly practice projects) are publicly available at **[https://github.com/timiodulate?tab=repositories](https://github.com/timiodulate?tab=repositories)**
-
--   📫 How to reach me **timiodulate@gmail.com**
-
-<!-- -   📄 Know about my experiences **[https://drive.google.com/file/d/1DxoqprBiXlym7n_ArRFhm2MvACz6fJ-S/view?usp=sharing](https://drive.google.com/file/d/1DxoqprBiXlym7n_ArRFhm2MvACz6fJ-S/view?usp=sharing)**
+-   👨‍💻 My projects are publicly available at **[https://thecopydev.netlify.app](https://thecopydev.netlify.app)**
 
 //-   ⚡ Fun fact **I love reading novels and manga, and watching anime and marvel contents.** -->
 
