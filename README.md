@@ -1,6 +1,6 @@
 <!-- ![template](/template.jpg) -->
 
-<h1 align="center">Hi 👋, I'm a full-stack website developer.</h1>
+<h1 align="center">Hi 👋, I'm a front-end developer.</h1>
 
 
 <!-- -   🌱 I’m currently learning **Something interesting and cool 😎** -->
