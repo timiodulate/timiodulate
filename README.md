@@ -1,13 +1,30 @@
 <!-- ![template](/template.jpg) -->
-
-<h1 align="center">Hi 👋, I'm a front-end developer.</h1>
-
+<h1 align="center">Full-Stack Software Engineer</h1>
 
 <!-- -   🌱 I’m currently learning **Something interesting and cool 😎** -->
 
--   👨‍💻 My projects are publicly available at **[https://thecopydev.netlify.app](https://thecopydev.netlify.app)**
+Building production web applications with:
+Next.js • TypeScript • Node.js • PostgreSQL
+
+## Projects
+- Task Manager SaaS
+- Blog Platform
+- Link Shortener API
+  
+👨‍💻 My projects are publicly available at **[https://timiodulate.vercel.app](https://timiodulate.vercel.app)**
 
 <!-- //-   ⚡ Fun fact **I love reading novels and manga, and watching anime and marvel contents.** -->
+
+## Tech Stack
+Frontend: Next.js, React, Tailwind  
+Backend: Node.js, Express  
+Database: PostgreSQL, Prisma  
+Deployment: Vercel, Docker
+
+## Contact
+LinkedIn  
+Portfolio
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
