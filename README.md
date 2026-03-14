@@ -20,11 +20,11 @@ Next.js • TypeScript • Node.js • PostgreSQL
 
 **Mobile**: React Native, Flutter
 
-**Backend**: Node.js (Express), Python (Django/FastAPI), Go, RESTful APIs, GraphQL  
+**Backend**: Node.js (Express/Next.js API routes), Python (Django/FastAPI), Go, RESTful APIs, GraphQL  
 
 **Database & BaaS**: PostgreSQL, MySQL, MongoDB, Redix, Prisma/TypeORM, Supabase, Firebase, Strapi  
 
-**DevOps & Cloud**: AWS (S3, EC2), Google Cloud, Docker, Kubernetes, CI/CD (GitHub Actions), Vercel, Netlify, Render, Heroku
+**DevOps & Cloud**: AWS (S3, EC2), Google Cloud, Docker, Kubernetes, CI/CD (GitHub Actions), Vercel, Netlify, Railway, Render, Heroku
 
 **Testing**: Jest, Cypress
 
