@@ -16,13 +16,13 @@ Next.js • TypeScript • Node.js • PostgreSQL
 <!-- //-   ⚡ Fun fact **I love reading novels and manga, and watching anime and marvel contents.** -->
 
 ## Tech Stack
-**Frontend**: Next.js, React.js, TypeScript, HTML5, CSS3 (Tailwind/Sass), Radix, Shadcn, Bootstrap, Redux, Zustand  
+**Frontend**: Next.js, React.js, TypeScript, HTML5, CSS3 (Tailwind/Sass), Radix UI, Shadcn/UI, Bootstrap, Redux, Zustand  
 
 **Mobile**: React Native, Flutter
 
-**Backend**: Node.js, Express  
+**Backend**: Node.js (Express), Python (Django/FastAPI), Go, RESTful APIs, GraphQL  
 
-**Database**: PostgreSQL, Prisma, Strapi, Firebase, Supabase  
+**Database & BaaS**: PostgreSQL, MySQL, MongoDB, Redix, Prisma/TypeORM, Supabase, Firebase, Strapi  
 
 **DevOps & Cloud**: AWS (S3, EC2), Google Cloud, Docker, Kubernetes, CI/CD (GitHub Actions), Vercel, Netlify, Render, Heroku
 
@@ -31,7 +31,6 @@ Next.js • TypeScript • Node.js • PostgreSQL
 <!--
 Webpack
 Redix
-Graphql
 Sketch
 Figma
 -->
