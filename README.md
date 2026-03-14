@@ -11,7 +11,7 @@ Next.js • TypeScript • Node.js • PostgreSQL
 - Blog Platform
 - Link Shortener API
   
-👨‍💻 My projects are publicly available at **[https://timiodulate.vercel.app](https://timiodulate.vercel.app)**
+👨‍💻 My projects are publicly available at **[https://timiodulate.vercel.app/projects](https://timiodulate.vercel.app/projects)**
 
 <!-- //-   ⚡ Fun fact **I love reading novels and manga, and watching anime and marvel contents.** -->
 
